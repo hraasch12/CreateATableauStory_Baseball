@@ -3,7 +3,7 @@
 ## Links:
 Original: https://public.tableau.com/profile/heidi.raasch#!/vizhome/shared/34S8F3FH4
 
-Revised post feedback: 
+Revised post feedback: https://public.tableau.com/views/BaseballStory_Revised/WhatEffectsBaseballPlayerPerformance?:embed=y&:display_count=yes&publish=yes
 
 ## Summary
 In this visualization I used a variety of visualization techniques to explore the Baseball Data data set. The features included in this dataset are Handedness, Name, Avg (batting average), Height, Weight, and HR (home runs). I analyzed this data to see which variables had an effect on the performance of the baseball players based on HR and Avg. 
@@ -12,13 +12,38 @@ In this visualization I used a variety of visualization techniques to explore th
 #### Original:
 To begin my analysis I used histograms and a bar chart to explore the data. The bar chart "Frequency of Players Per Handedness shows the number of players that are left handed, right handed, or both. The Frequency of Height histogram shows the distribution of height amongst the players. We see that 72" is the most popular height with 232 players being that height. Next I examined the weight distribution amongst players using a histogram. This histogram shows that the most popular weight is 180 with 299 players weighing that amount. 
 
-Next I started to explore which handedness has the highest performanced based off of Batting Average and Home Runs. First I used Box Plots to look at the handedness and Batting Averages. We see that players with handedness of both have a median average of 0.125. Left handed players have a median average of 0.1940 and right handed players have a median average of 0.1625. These results show us that left handed players have the highest median batting average amongst right and both handed players. I then used a bar chart to look at the average batting average. The averages were slightly higher than the medians, and interestingly showed the left handed players have a greater average, 0.20505, than the left handed group at 0.20451. 
+Next I started exploring which handedness has the highest performance based off the Batting Average and number of Home Runs. The box plots showed that the left handed players have the highest median batting average and right handed players have the highest median number of home runs. Then I looked at the average home runs and batting averages. Left handed players had the highest average batting average and right handed players have the highest average of home runs. 
 
-The second Box Plot looks at the number of Home Runs by handedness. The median for both handed players is 30.5, the median for left handed players is 78.5, and the median for right handed players is 93. These results show that the group with the highest median home runs is Right handed players. The bar chart for the handedness and average number of home runs matches what we saw in the box plot wit the Left handed group having the highest average of home runs followed by the right handed players with both handed players having the lowest average number of home runs. 
+Then I explored how height and weight effected performance using line graphs. I chose line graphs so you can easily spot the trends.  The number of home runs increased as weight increased. Height had the opposite effect on home runs. The taller a player the fewer home runs they have. With batting averages we see that the taller the players the lower the batting average. We see the same for the weight although it's not as dramatic of a drop. 
 
+Next I used circles to show the relationship between height, weight, batting average, and home runs. I used the circles to easily visualize where the highest home runs and batting averages fell in comparison to height and weight. This showed that the players that were above 180 lbs and 70 inches and above in height have the biggest darker circles indicating the better performance.
 
+I also wanted to look at the relationship between home runs and batting averages. I used a scatter plot and encoded the handedness in color. The trendlines show us the correlation between the batting average and home runs. As the number of home runs increase so does the batting average. 
 
-## Feedback
---Add a text chart to show the total number of records. 
--- Bar charts for batting anverage and home runs are not in teh same row as their box plot counter parts. 
+## Feedback:
+What do you notice in the visualization?
+Nicely laid out, easy to read
+
+What questions do you have about the data?
+Where did the data come from? How long was it collected? How many records were included?
+
+Action: Added a text box to add the description of the data including the number of records included. 
+
+What relationships do you notice?
+Players that are left handed have better avg and HRs
+The more players weigh the number of home runs increase.
+However, when a player is taller the number of HR and avg go down. 
+Batting avg is all over the place as it relates to weight
+
+What do you think is the main takeaway from this visualization?
+Players that are left handed and shorter tend to perform better. 
+
+Is there something you don’t understand in the graphic?
+Not really
+
+One change to the layout: Bar charts for batting anverage and home runs are not in the same row as their box plot counter parts. 
+
+Action: Revised the laoyout
+
 ## Resources
+N/A
