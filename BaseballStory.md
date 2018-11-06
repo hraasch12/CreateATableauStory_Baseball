@@ -20,7 +20,7 @@ Next I used circles to show the relationship between height, weight, batting ave
 
 I also wanted to look at the relationship between home runs and batting averages. I used a scatter plot and encoded the handedness in color. The trendlines show us the correlation between the batting average and home runs. As the number of home runs increase so does the batting average. 
 
-## Feedback:
+## Feedback 1:
 What do you notice in the visualization?
 Nicely laid out, easy to read
 
@@ -44,6 +44,27 @@ Not really
 One change to the layout: Bar charts for batting anverage and home runs are not in the same row as their box plot counter parts. 
 
 Action: Revised the laoyout
+
+## Feedback 2:
+1. What do you notice in the visualization?   
+In the visualization it is noted that each comparison has its own color. Also noted the different types of graphs used to show each separate comparison. 
+
+2.What questions do you have about the data? 
+Where was this data collected from? What is the data based on?
+
+Action: This information was not available. Data set was provided by Udacity.
+
+3. What relationships do you notice? 
+There are relationships between the height/weight and the performance of the players. 
+
+4. What do you think is the main takeaway from this visualization? 
+That Right handed. 72 to 73 inches tall, 180 to 190 pounds display the average for a baseball player. 
+
+5. Is there something you don’t understand in the graphic? 
+Units of measurement
+
+Action: Add units of measurement
+
 
 ## Resources
 N/A
